@@ -1,0 +1,13 @@
+    {
+  "show": true,
+  "title": "Latest Version Available",
+  "message": [
+    "Premium Features Unlocked",
+    "No Watermark",
+    "All Effects Unlocked",
+    "Anti-Ban Security Added",
+    "Bugs Fixed & Performance Improved"
+  ],
+  "button": "UPDATE NOW",
+  "update_url": "https://example.com/download.apk"
+}
